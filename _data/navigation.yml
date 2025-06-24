@@ -1,6 +1,8 @@
 main:
   - title: "Contact"
     url: /contact/
+  - title: "Writing"
+    url: /writing/
   - title: "Candela Solutions"
     url: https://www.candela.solutions/
     target: _blank
