@@ -1,7 +1,8 @@
 ---
 title: Writing
 permalink: /writing/
-nav: '"writing"'
+sidebar:
+    nav: "writing"
 ---
 
 
