@@ -1,7 +1,7 @@
 ---
-title: "Writing"
+title: Writing
 permalink: /writing/
-toc: true
+nav: '"writing"'
 ---
 
 
