@@ -1,0 +1,1 @@
+Fast, works from a distance, sniper

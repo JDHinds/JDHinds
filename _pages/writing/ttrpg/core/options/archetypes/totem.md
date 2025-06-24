@@ -1,0 +1,1 @@
+Like mage, but more warlock, reduced capability but just as powerful, a vessel for greater power
