@@ -6,3 +6,17 @@ main:
   - title: "Candela Solutions"
     url: https://www.candela.solutions/
     target: _blank
+
+writing:
+  - title: Doctor Who
+    children:
+      - title: "TARDIS Type 40 Manual: Cubicle 7 Application"
+        url: /writing/doctorwho/tardis/
+      - title: "Daedalus: Big Finish New Writer Competition"
+
+  - title: Eberron
+    children:
+      - title: "House Sivis Postal Guild"
+        url: /writing/postalguild/0/
+
+  - title: Tales From The Peculiar Worlds
